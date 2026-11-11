@@ -8,9 +8,9 @@ Herramienta de IA usada: GEMINI
  
 | Texto | Caracteres | Tokens |
 |-------|------------:|--------:|
-| Los estudiantes programan en Java. | 7 | 34 |
-| The students program in Java. | 6 | 29|
-| desafortunadamente | 4 | 18 |
+| Los estudiantes programan en Java. | 34 | 7 |
+| The students program in Java. | 29 | 6|
+| desafortunadamente | 18 | 4 |
 
 
 ## Ejercicio 3: Temperatura
